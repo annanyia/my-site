@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport"
+content="width=device-width,
+initial-scale=1.0">
+    <title>Annanyiann's site</title>
+</head>
+    <h1> Hey you, Welcome</h1>
+    <p> This is the first version of my site</p>
+</body>
+</html>
